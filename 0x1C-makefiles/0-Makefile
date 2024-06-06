@@ -1,0 +1,4 @@
+# gcc and some variables
+
+all:
+	gcc main.c school.c -o school
